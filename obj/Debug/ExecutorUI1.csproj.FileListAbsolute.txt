@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\bin\Debug\ExecutorUI1.exe.config
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\bin\Debug\ExecutorUI1.exe
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\bin\Debug\ExecutorUI1.pdb
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\bin\Debug\FastColoredTextBox.dll
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.Form1.resources
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.Properties.Resources.resources
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.csproj.GenerateResource.cache
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.csproj.CopyComplete
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.exe
+C:\Users\admin\Documents\VisualStudio2022Code\ExecutorUI1\obj\Debug\ExecutorUI1.pdb
