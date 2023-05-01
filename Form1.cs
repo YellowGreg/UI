@@ -18,12 +18,12 @@ namespace ExecutorUI1
             InitializeComponent();
         }
         Point lastPoint;
-        // Clear Text Button
+        // Clear Text; Button
         private void button2_Click(object sender, EventArgs e)
         {
             fastColoredTextBox1.Clear();
         }
-        // Open File
+        // Open File; Button
         private void button4_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
@@ -33,7 +33,7 @@ namespace ExecutorUI1
                 fastColoredTextBox1.Text = File.ReadAllText(openFileDialog1.FileName);
             }
         }
-        // Save File
+        // Save File; Button
         private void button5_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
@@ -60,12 +60,12 @@ namespace ExecutorUI1
                 this.Top += e.Y - lastPoint.Y;
             }
         }
-        // Close Button
+        // Close UI; Button
         private void button6_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
-        // Minimized UI
+        // Minimized UI; Button
         private void button7_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
