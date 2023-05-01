@@ -18,7 +18,7 @@ namespace ExecutorUI1
             InitializeComponent();
         }
         Point lastPoint;
-        // Clear Button
+        // Clear Text Button
         private void button2_Click(object sender, EventArgs e)
         {
             fastColoredTextBox1.Clear();
@@ -65,7 +65,7 @@ namespace ExecutorUI1
         {
             Application.Exit();
         }
-        // Minimized
+        // Minimized UI
         private void button7_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
